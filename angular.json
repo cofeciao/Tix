@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tix"
+    }
+  },
+  "defaultProject": "Tix",
+  "cli": {
+    "analytics": false
+  }
 }
